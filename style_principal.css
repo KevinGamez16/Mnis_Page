@@ -172,7 +172,7 @@ footer {
         width: 500px;
     }
     .Team-section {
-        padding: 3rem 1.5rem;
+        padding: 50px 50px;
     }
     .member-main {
         flex-direction: column;
@@ -198,7 +198,7 @@ footer {
     }
     .logo {
         width: 60px;
-        height: 50px;
+        height: 60px;
         align-self: self-start;
     }
     .nav {
@@ -218,7 +218,7 @@ footer {
         width: 70%;
     }
     .Team-section {
-        padding: 2rem 1rem;
+        padding:    50px 50px;
     }
     .integrantes-grid {
         grid-template-columns: 1fr;
