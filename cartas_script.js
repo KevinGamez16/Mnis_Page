@@ -28,9 +28,9 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 26, url: 'assets/cartas/Carta26.jpg', name: '', tags: [] },
         { id: 27, url: 'assets/cartas/Carta27.jpg', name: '', tags: [] },
         { id: 28, url: 'assets/cartas/Carta28.jpg', name: '', tags: [] },
-        { id: 29, url: 'assets/cartas/Carta30.jpg', name: '', tags: [] },
-        { id: 30, url: 'assets/cartas/Carta31.jpg', name: '', tags: [] },
-        { id: 31, url: 'assets/cartas/Carta29.jpg', name: '', tags: [] }
+        { id: 29, url: 'assets/cartas/Carta29.jpg', name: '', tags: [] },
+        { id: 30, url: 'assets/cartas/Carta30.jpg', name: '', tags: [] },
+        { id: 31, url: 'assets/cartas/Carta31.jpg', name: '', tags: [] }
     ];
 
     const photoGallery = document.getElementById('photoGallery');
